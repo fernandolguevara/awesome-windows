@@ -98,6 +98,7 @@
 
 ### Others
 
+- [Cygwin](http://www.cygwin.com/) - Cygwin is a distribution of popular GNU and other Open Source tools running on Microsoft Windows.
 
 ## Developer Tools
 
